@@ -1,0 +1,5 @@
+{
+  "name": "Retirement Savings Planner",
+  "description": "A modern, responsive web application to help users plan their retirement savings. It estimates the retirement age and required monthly contributions to meet financial goals, factoring in compound interest.",
+  "requestFramePermissions": []
+}

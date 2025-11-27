@@ -9,7 +9,7 @@
 
 Welcome to the **Retirement Savings Planner**, a state-of-the-art financial modeling tool designed to empower users with the clarity they need for their financial future. Built with modern web technologies, this application offers a seamless, responsive, and privacy-focused experience for calculating retirement milestones.
 
-**🚀 LIVE DEMO:** [RetirementSavings.doodax.com](https://RetirementSavings.doodax.com)
+**🚀 LIVE DEMO:** [doodax.com](https://doodax.com/tools/retirement-savings-planner/index.html)
 
 ## ✨ Key Features
 

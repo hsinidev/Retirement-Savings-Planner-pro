@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Retirement Savings Planner Pro
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Retirement%20Savings%20Plann&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Retirement Savings Planner Pro Header Banner" />
+
+  <h1>🚀 Retirement Savings Planner Pro</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Retirement-Savings-Planner-pro"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Retirement Savings Planner Pro** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,81 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Retirement Savings Planner 🚀
-
-
-## 🌟 Introduction
-
-Welcome to the **Retirement Savings Planner**, a state-of-the-art financial modeling tool designed to empower users with the clarity they need for their financial future. Built with modern web technologies, this application offers a seamless, responsive, and privacy-focused experience for calculating retirement milestones.
-
-**🚀 LIVE DEMO:** [doodax.com](https://doodax.com/tools/retirement-savings-planner/index.html)
-
-## ✨ Key Features
-
--   **🎯 Precision Financial Modeling:** Utilizes complex compound interest algorithms to calculate retirement age, required savings, and nest egg targets.
--   **📈 Visual Growth Projections:** Features an interactive bar chart to visualize wealth accumulation over time.
--   **🌌 Immersive UI:** A beautiful, nebula-themed interface with glassmorphism effects for a premium user experience.
--   **📱 Fully Responsive:** Optimized for all devices, ensuring a consistent experience from mobile to desktop.
--   **🔍 SEO Powerhouse:** Integrated with extensive JSON-LD Schema markup and a 3500+ word comprehensive guide to retirement planning.
--   **🔒 Privacy First:** All calculations are performed client-side. No financial data is ever sent to a server.
-
-## 📁 Project Structure
-
-```bash
-retirement-savings-planner/
-├── public/                  # Static assets
-│   ├── favicon.svg          # Application icon
-│   ├── robots.txt           # Search engine crawler directives
-│   └── sitemap.xml          # Website structure for SEO
-├── src/
-│   ├── components/
-│   │   ├── RetirementPlannerTool.tsx  # Core calculation logic and visualization
-│   │   ├── SeoArticle.tsx             # Long-form SEO content with Schema.org markup
-│   │   └── ThemeLayout.tsx            # Main layout, modal system, and background effects
-│   ├── services/
-│   │   └── FinancialMath.ts           # Pure TypeScript financial algorithms
-│   ├── App.tsx                        # Root application component
-│   └── index.tsx                      # Entry point
-└── index.html                         # Main HTML template
-```
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/hsinidev/retirement-savings-planner.git
-    ```
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-3.  **Start the development server:**
-    ```bash
-    npm run dev
-    ```
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-
-
----
-<div align="center">
-  Powered by <a href="https://github.com/hsinidev" target="_blank" style="color: #FFD700; font-weight: bold;">HSINI MOHAMED</a>
-</div>
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
